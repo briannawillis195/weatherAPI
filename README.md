@@ -7,4 +7,4 @@
 
 <b>Tech Used:</b>ReactJS, Bootstrap
 
-<b>Lessons Learned:<b/>I previously built this app using vanilla JS. I wanted to challenge myself and rebuild it using React. I am happy about the way the project turned out and it is very interesting seeing what can be done with React.
+<b>Lessons Learned:</b>I previously built this app using vanilla JS. I wanted to challenge myself and rebuild it using React. I am happy about the way the project turned out and it is very interesting seeing what can be done with React.
