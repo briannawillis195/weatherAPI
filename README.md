@@ -1,6 +1,6 @@
 # weatherAPI
 
-
+<b>View my project here:</b> https://bw-react-weather-api.netlify.app/
 <img width="1440" alt="Screenshot 2024-01-24 at 3 13 17 PM" src="https://github.com/briannawillis195/weatherAPI/assets/143905399/2c8c6d61-afe6-4ba2-ade1-0a88d6dbe091">
 
 <b>Description:</b> Weather App where you can enter a city and it will give you the current temperature.
